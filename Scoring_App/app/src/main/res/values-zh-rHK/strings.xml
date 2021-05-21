@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計分</string>
+    <string name="txt_title_a">A隊</string>
+    <string name="txt_title_b">B隊</string>
+    <string name="txt_score_a">0</string>
+    <string name="txt_score_b">0</string>
+    <string name="btn_a1">+1</string>
+    <string name="btn_a2">+2</string>
+    <string name="btn_a3">+3</string>
+    <string name="btn_b1">+1</string>
+    <string name="btn_b2">+2</string>
+    <string name="btn_b3">+2</string>
+    <string name="btn_redo">重做</string>
+    <string name="btn_reset">重設</string>
+</resources>
